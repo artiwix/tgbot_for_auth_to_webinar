@@ -1,0 +1,8 @@
+# User Data File :
+
+# User data :
+USER_STATE = {
+    'is_authorized': None
+}
+
+
